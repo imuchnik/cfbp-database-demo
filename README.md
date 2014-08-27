@@ -1,22 +1,10 @@
-# map-tour
+This is a mashup of firebase, polymer and flip-card
 
-This code is from my live demo at the SFHTML5 Polymer meet-up.
+CFPB complaints database is pulled from data.gov and then displayed as flip-card with some info.
 
-### [Wath the video](https://www.youtube.com/watch?v=mN7IAaRdi_k&feature=share&t=2h41m10s)
+This project has external dependencies.
 
-## Getting Started
-
-- Create a folder called `development`
-- `cd` into `development`
-- Clone this repo inside of `development`. Your file structure should look like this:
-
-```
-development/
-  map-tour/
-```
-
-- `cd` into `map-tour`
-- Run `bower install`. Dependencies should end up in the `development` folder.
-- `cd` into the `development` folder.
-- Start a local server and open up `http://localhost:[PORT]/map-tour/demo.html`
-- Profit!!!!!!!
+- Run `bower install`. Dependencies should end up in the outer folder.
+- `cd` into the `outer` folder.
+- Start a local server and open up `http://localhost:[PORT]/projectname/demo.html
+- Enjoy!!!!!!!
